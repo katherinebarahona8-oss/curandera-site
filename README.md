@@ -1,12 +1,16 @@
-# Curandera V3 Copy Comparison
+# Curandera V4
 
-This version shows two homepage copy directions on one page:
-
-- Option 1: subtle Spanish influence
-- Option 2: more minimal
+Full homepage rebuild with:
+- real header and footer
+- hero section with CTA
+- philosophy section
+- ritual cards
+- blends section
+- atmosphere block
+- circle signup form
 
 ## Replace in GitHub
-Upload these files to your existing repo and replace the current files:
+Upload these files and replace the current ones:
 - index.html
 - styles.css
 
