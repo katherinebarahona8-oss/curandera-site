@@ -1,6 +1,13 @@
-# Curandera V4 Option 2
+# Curandera V4
 
-A more minimal, ceremonial website direction.
+Full homepage rebuild with:
+- real header and footer
+- hero section with CTA
+- philosophy section
+- ritual cards
+- blends section
+- atmosphere block
+- circle signup form
 
 ## Replace in GitHub
 Upload these files and replace the current ones:
