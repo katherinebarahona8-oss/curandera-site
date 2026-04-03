@@ -1,17 +1,7 @@
-# Curandera V4
+# Curandera V5
 
-Full homepage rebuild with:
-- real header and footer
-- hero section with CTA
-- philosophy section
-- ritual cards
-- blends section
-- atmosphere block
-- circle signup form
-
-## Replace in GitHub
-Upload these files and replace the current ones:
+Replace in GitHub:
 - index.html
 - styles.css
 
-Netlify should redeploy automatically.
+Then Netlify should redeploy automatically.
